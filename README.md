@@ -21,7 +21,7 @@ azure-blob-trigger-function/
 ```
 
 ## 🚀 How It Works
-- Upload any file to your blob container named `slogs`.
+- Upload any file to your blob container named `uploads`.
 - The Azure Function will automatically trigger and log file details (name and size).
 
 ## 🐙 GitHub Deployment
